@@ -6,6 +6,7 @@ for (let i = 1; i <= 20; i++) {
     console.log(i);
 }
 // Commit message: "Easy Going answered"
+// Commit message: "Easy Going answered"
 
 
 ////////////////////////////////
