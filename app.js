@@ -98,7 +98,7 @@ console.log(lastHalf); // Log the last half
 console.log("Fast and Furious index:", favMovies.indexOf("Fast and Furious")); // Index of "Fast and Furious" after removal
 
 // Commit message: "Methods Revisited answered"
-
+// Commit message: "Methods Revisited answered"
 
 ////////////////////////////////
 // Where is Waldo
