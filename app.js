@@ -116,6 +116,7 @@ whereIsWaldo[2][2] = "No One"; // Change "Neff" to "No One"
 console.log(whereIsWaldo[3][1][1]); // Access and log "Waldo"
 
 // Commit message: "Where is Waldo answered"
+// Commit message: "Where is Waldo answered"
 
 
 ////////////////////////////////
