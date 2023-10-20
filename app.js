@@ -151,3 +151,4 @@ const median = nums[middle]; // Find the median
 console.log("Median:", median);
 
 // Commit message: "Find the Median answered"
+// Commit message: "Find the Median answered"
