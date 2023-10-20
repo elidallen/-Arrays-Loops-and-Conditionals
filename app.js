@@ -35,7 +35,7 @@ for (let i = 1; i <= 100; i++) {
     }
 }
 // Commit message: "Fizz Buzz answered"
-
+// Commit message: "Fizz Buzz answered"
 
 ////////////////////////////////
 // Wild Wild Life
